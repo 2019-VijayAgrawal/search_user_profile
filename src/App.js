@@ -1,10 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
-import Api from './component/Api.js'
+import Page from './component/Page';
 function App() {
   return (
     <div className="">
-      <Api/>
+     <Page/>
 
     
       
